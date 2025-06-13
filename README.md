@@ -24,8 +24,7 @@
 ## 📈 Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daffaprima&show_icons=true&theme=tokyonight" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daffaprima&layout=compact&theme=tokyonight" width="320"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=daffaprimaa&show_icons=true&theme=react" width="400"/>
 </p>
 
 ---
@@ -33,7 +32,7 @@
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/daffaprima/daffaprima/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/daffaprimaa/daffaprimaa/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
