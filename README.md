@@ -1,49 +1,52 @@
-# 👋 Halo, saya Daffa Prima
-
-🎓 Mahasiswa Informatika yang tertarik dengan dunia **Cloud Computing** dan **Backend Development**.  
-💻 Fokus utama saya saat ini adalah mempelajari dan mengembangkan proyek dengan **Python** serta teknologi web lainnya.
-
----
-
-## 🔧 Teknologi & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+<p align="center">
+  <img src="./assets/profile-banner.svg" width="100%" alt="Daffa Prima — Backend, Web & Cloud" />
 </p>
-
----
-
-## 📈 Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daffaprimaa&show_icons=true&theme=react" width="400"/>
+  <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
+  <a href="#toolbox">Toolbox</a> &nbsp; / &nbsp;
+  <a href="#contribution-trail">Activity</a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/daffaprimaputra/">LinkedIn ↗</a>
 </p>
+
+<br />
+
+### A little about me
+
+I'm **Daffa Prima**. I build web applications and explore **backend development** and **cloud computing**.
+
+My projects span a clinic information system, business websites, and responsive web interfaces. I enjoy connecting the pieces: the interface people use, the API behind it, and the data that makes it work.
+
+- **Building with** Python, FastAPI, React, and JavaScript.
+- **Interested in** API design, backend systems, and cloud infrastructure.
+- **Learning by** turning practical problems into working projects.
+
+### Selected work
+
+| Project | What it's about | Built with |
+| :--- | :--- | :--- |
+| **[Art & Cosmetic Dental](https://github.com/DaffaPrimaa/Art-and-Cosmetic-Dental-)** | A clinic information system with separate frontend and backend applications. | Python · FastAPI · React · SQLite |
+| **[ACDC Clinic Website](https://github.com/DaffaPrimaa/Website-Profil-ACDC)** | A clinic profile website presenting services, opening hours, and contact information. | HTML · CSS · JavaScript |
+| **[Grafologi — Hero Redesign](https://github.com/DaffaPrimaa/hero-redesign-grafologi)** | A responsive redesign of a course landing page's hero section, built without a framework. | HTML · CSS · JavaScript |
+
+[Explore all repositories →](https://github.com/DaffaPrimaa?tab=repositories)
+
+### Toolbox
+
+**Backend & data** &nbsp; `Python` `FastAPI` `SQLite`<br />
+**Frontend** &nbsp; `JavaScript` `React` `Tailwind CSS` `HTML` `CSS`<br />
+**Currently exploring** &nbsp; Cloud computing & backend architecture
+
+### Contribution trail
+
+A small, playful view of my GitHub contributions. Updated every 12 hours.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DaffaPrimaa/daffaprimaa/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DaffaPrimaa/daffaprimaa/output/snake.svg" />
+  <img alt="An animated snake following Daffa Prima's GitHub contribution graph" src="https://raw.githubusercontent.com/DaffaPrimaa/daffaprimaa/output/snake.svg" width="100%" />
+</picture>
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/daffaprimaa/daffaprimaa/output/snake.svg" alt="Snake animation" />
-</p>
-
----
-
-## 📫 Hubungi Saya
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/daffaprimaputra/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="https://www.instagram.com/afaa11_/">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
-</p>
+**Let's connect.** Find me on [LinkedIn](https://www.linkedin.com/in/daffaprimaputra/) or browse what I'm building [here on GitHub](https://github.com/DaffaPrimaa?tab=repositories).
